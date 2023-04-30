@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-
+1
     <div class="selectNav row row-cols-1 g-3">
       <div class="col-md-2">
         <select v-model="selectCountry" class="form-select form-select-lg " aria-label=".form-select-lg example">
